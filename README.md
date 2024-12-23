@@ -1,5 +1,3 @@
-# 🎧 Olá, eu sou Allison Gomes Folha!
-
 ### 💻 Sobre Mim
 - 🎓 Pós-graduado em Engenharia de Software pela PUC Minas.
 - 💼 Atualmente, trabalho na **Imusica (Claro S.A.)**, desenvolvendo soluções incríveis para **streaming de áudio**, **integrações com Alexa**, e otimizando a experiência do usuário.
@@ -13,9 +11,5 @@
 - **Integrações**: APIs RESTful, Webhooks, Alexa Skills.
 - **Outros**: RabbitMQ, Kafka, Machine Learning aplicado a áudio.
 
-### 📊 Minhas Estatísticas no GitHub
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonfolha&layout=compact&theme=radical)
-
-### 🚀 Vamos Conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allisonfolha/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisonfolha@gmail.com)
