@@ -14,7 +14,6 @@
 - Outros: Machine Learning aplicado a áudio, RabbitMQ, Kafka.
 
 ### 📊 Minhas Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allisonfolha&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonfolha&layout=compact&theme=radical)
 
 ### 🚀 Vamos Conectar?
