@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Allison Gomes Folha!
 
-<!--
-**AllisonFolha/allisonfolha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre Mim
+- 🎓 Pós-graduado em Engenharia de Software pela PUC Minas.
+- 💼 Web Developer na **Imusica (Claro S.A.)**, focado em **streaming de áudio**.
+- 🌟 Apaixonado por desenvolver soluções com **Next.js**, **React**, e **otimização de performance** em plataformas web.
+- 🚀 Explorando tecnologias de ponta para criar experiências incríveis relacionadas ao áudio.
 
-Here are some ideas to get you started:
+### 🛠️ Minhas Habilidades
+- Frontend: React.js, Next.js, TypeScript, Styled Components, Semantic UI React.
+- Backend: Node.js, C#, Python, Go.
+- Performance: Otimização de carregamento, boas práticas de UX/UI, e métricas de Core Web Vitals.
+- Integrações: APIs RESTful, Webhooks, e serviços para dispositivos inteligentes (como Alexa).
+- Outros: Machine Learning aplicado a áudio, RabbitMQ, Kafka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allisonfolha&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonfolha&layout=compact&theme=radical)
+
+### 🚀 Vamos Conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allisonfolha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisonfolha@gmail.com)
