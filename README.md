@@ -1,19 +1,19 @@
-# 👋 Olá, eu sou Allison Gomes Folha!
+# 🎧 Olá, eu sou Allison Gomes Folha!
 
 ### 💻 Sobre Mim
 - 🎓 Pós-graduado em Engenharia de Software pela PUC Minas.
-- 💼 Web Developer na **Imusica (Claro S.A.)**, focado em **streaming de áudio**.
-- 🌟 Apaixonado por desenvolver soluções com **Next.js**, **React**, e **otimização de performance** em plataformas web.
-- 🚀 Explorando tecnologias de ponta para criar experiências incríveis relacionadas ao áudio.
+- 💼 Atualmente, trabalho na **Imusica (Claro S.A.)**, desenvolvendo soluções incríveis para **streaming de áudio**, **integrações com Alexa**, e otimizando a experiência do usuário.
+- 🌟 Tenho paixão por criar interfaces intuitivas e de alta performance usando **React** e **Next.js**.
+- 🚀 Sempre em busca de formas de combinar inovação, performance e simplicidade para entregar valor.
 
-### 🛠️ Minhas Habilidades
-- Frontend: React.js, Next.js, TypeScript, Styled Components, Semantic UI React.
-- Backend: Node.js, C#, Python, Go.
-- Performance: Otimização de carregamento, boas práticas de UX/UI, e métricas de Core Web Vitals.
-- Integrações: APIs RESTful, Webhooks, e serviços para dispositivos inteligentes (como Alexa).
-- Outros: Machine Learning aplicado a áudio, RabbitMQ, Kafka.
+### 🛠️ Habilidades
+- **Frontend**: React.js, Next.js, TypeScript, Styled Components.
+- **Backend**: Node.js, Python, C#.
+- **Performance**: Core Web Vitals, otimização de carregamento e métricas UX.
+- **Integrações**: APIs RESTful, Webhooks, Alexa Skills.
+- **Outros**: RabbitMQ, Kafka, Machine Learning aplicado a áudio.
 
-### 📊 Minhas Estatísticas do GitHub
+### 📊 Minhas Estatísticas no GitHub
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonfolha&layout=compact&theme=radical)
 
 ### 🚀 Vamos Conectar?
